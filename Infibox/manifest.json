@@ -1,0 +1,17 @@
+{
+    "info": {
+        "name": "infibox",
+        "version": 3
+    },
+    "default_locale" : "en",
+
+    "aliases": {
+
+        "container:infibox": "file(containers/infibox)"
+
+    },
+
+    "mixintos" : {
+        "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(recipes/recipes.json)"
+    }
+}

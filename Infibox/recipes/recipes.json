@@ -1,0 +1,13 @@
+{
+   "craftable_recipes": {
+      "storage": {
+         "ordinal": 3,
+         "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
+         "recipes": {
+            "infibox": {
+               "recipe": "file(infibox_recipe.json)"
+            }
+         }
+      }
+   }
+}

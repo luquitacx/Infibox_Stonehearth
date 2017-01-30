@@ -1,0 +1,17 @@
+{
+   "containers": {
+      "infibox": {
+         "infibox_ghost": {
+            "display_name" : "infibox",
+            "description" : "How does it even works?"
+         }
+      }
+   },
+   "recipes": {
+      "infibox_recipe": {
+         "recipe_name" : "infibox",
+         "description" : "How does it even works?",
+         "flavor" : "Warning: mat cause space-time anomalies"
+      }
+   }
+}

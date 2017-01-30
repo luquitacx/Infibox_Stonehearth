@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 6,
+   "recipe_name": "i18n(Infibox:recipes.infibox_recipe.recipe_name)",
+   "description": "i18n(Infibox:recipes.infibox_recipe.description)",
+   "flavor": "i18n(Infibox:recipes.infibox_recipe.flavor)",
+   "portrait": "/stonehearth/entities/containers/large_crate/large_crate.png",
+   "workshop": "stonehearth:carpenter:workbench",
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "Infibox:container:infibox"
+      }
+   ]
+}
